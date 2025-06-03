@@ -1,0 +1,11 @@
+1, Swati Bhardwaj, IT, Manager, 1500.0
+2, Prajwol, HR, Regular Employee, 3000.0
+3, Pradip Karki, Finance, Regular Employee, 3200.0
+5, Alice Smith, IT, Regular Employee, 2800.0
+6, John Doe, HR, Regular Employee, 2900.0
+7, Emily Davis, Finance, Manager, 2200.0
+8, Michael Brown, Marketing, Regular Employee, 3100.0
+9, Sarah Wilson, IT, Manager, 1800.0
+10, James Lee, Finance, Regular Employee, 2700.0
+4, Ramesh Khadka, Marketing, Regular Employee, 2000.0
+11, Ram k, IT, Marketing, Regular Employee, 2000.0
